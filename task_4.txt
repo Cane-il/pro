@@ -1,0 +1,13 @@
+/usr/src/app$ cd code-user/ 
+/usr/src/app/code-user$ rm -f index.html
+/usr/src/app/code-user$ git add index.html && git commit -m 'remove index.html'
+[main b68b993] remove index.html
+ 1 file changed, 1 deletion(-)
+ delete mode 100644 index.html
+/usr/src/app/code-user$ mv hexlet.txt hexlet2.txt
+/usr/src/app/code-user$ git add hexlet.txt hexlet2.txt 
+/usr/src/app/code-user$ git commit -m 'rename hexlet.txt to hexlet2.txt'
+[main 1cd2593] rename hexlet.txt to hexlet2.txt
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+ rename hexlet.txt => hexlet2.txt (100%)
+/usr/src/app/code-user$ 

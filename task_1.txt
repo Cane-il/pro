@@ -1,0 +1,13 @@
+/usr/src/app$ cd code-user/                                                                                                      
+/usr/src/app$ echo '<h1>Мама, я коммичу</h1>' > index.html!' > hexlet.txt && echo '<h1>Мама, я коммичу</h1>' > index.html
+/usr/src/app/code-user$ git add hexlet.txt
+/usr/src/app/code-user$ git commit -m 'add hexlet.txt'
+[main bb163bc] add hexlet.txt
+ 1 file changed, 1 insertion(+)
+ create mode 100644 hexlet.txt
+/usr/src/app/code-user$ git add index.html
+/usr/src/app/code-user$ git commit -m 'add index.html'
+[main 444018a] add index.html
+ 1 file changed, 1 insertion(+)
+ create mode 100644 index.html
+/usr/src/app/code-user$ 
